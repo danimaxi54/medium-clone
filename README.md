@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=danimaxi54.medium-clone)
 
-[Link to app](https://danimaxi54.github.io/medium-clone/)
+## Link: https://danimaxi54.github.io/medium-clone/
 
 ![](https://raw.githubusercontent.com/danimaxi54/medium-clone/main/medium-main.png)
 
